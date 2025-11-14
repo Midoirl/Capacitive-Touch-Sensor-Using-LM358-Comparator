@@ -6,13 +6,13 @@ The goal of the project was to demonstrate and build a fully functional touch se
 
 ## Components
 
-LM358 op amp
-1.5 MΩ and 100 kΩ voltage divider
-1 MΩ pull down resistor
-Coin touch plate
-White LED
-150 Ω current limiting resistor
-Jumper wires
+LM358 op amp,
+1.5 MΩ and 100 kΩ voltage divider,
+1 MΩ pull down resistor,
+Coin touch plate,
+White LED,
+150 Ω current limiting resistor,
+Jumper wires,
 5 V supply
 
 ## Circuit
