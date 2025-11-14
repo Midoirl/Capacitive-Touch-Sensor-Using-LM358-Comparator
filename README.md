@@ -19,6 +19,8 @@ Jumper wires
 
 This section includes the full circuit used for the touch sensor.
 It shows the LM358 configured as a comparator, the high impedance sensing node, the reference voltage divider, the pull down resistor, and the LED output stage.
+![2794746D-0FB5-46A2-A6D4-5CE785659E62_1_105_c](https://github.com/user-attachments/assets/3c56d287-293c-4dcd-984f-b8bedaf4f5ab)
+
 
 
 ## How it works
