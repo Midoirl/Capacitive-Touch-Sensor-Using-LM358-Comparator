@@ -48,7 +48,8 @@ Verified low current consumption. The circuit only draws current when the coin i
 
 ## Future improvements
 
-Add a Schmitt trigger stage to make the threshold cleaner. Build a PCB version for a more compact and stable design.
+1) Add a Schmitt trigger stage to make the threshold cleaner
+2) Build a PCB version for a more compact and stable design.
 
 ## Actual circuit build 
 This is the final working implementation of the touch sensor on a breadboard.
