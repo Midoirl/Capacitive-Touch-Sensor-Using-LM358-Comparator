@@ -50,14 +50,15 @@ Verified low current consumption. The circuit only draws current when the coin i
 
 Add a Schmitt trigger stage to make the threshold cleaner. Build a PCB version for a more compact and stable design.
 
-## Actual circuit build and demo
+## Actual circuit build 
 This is the final working implementation of the touch sensor on a breadboard.
 
 ![8A0BB05B-3D51-4EF0-ABE5-6EB50F3D76B1_1_105_c](https://github.com/user-attachments/assets/d985b8ab-895c-4b41-8368-2d22362c5faa)
 
-A link to a short demo clip showing the LED response when the coin is touched.
+## Demo
 
-https://drive.google.com/file/d/142fAchAKle-YS19PesCG8SXIbo68Vkxt/view?usp=sharing
+**Click here to watch the video demo**  
+[ Watch on Google Drive](https://drive.google.com/file/d/142fAchAKle-YS19PesCG8SXIbo68Vkxt/view?usp=sharing)
 
 ## Author
 Mahmod Kirresh
