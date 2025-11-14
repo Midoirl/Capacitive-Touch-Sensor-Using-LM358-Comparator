@@ -52,4 +52,6 @@ Add a Schmitt trigger stage to make the threshold cleaner.
 Build a PCB version for a more compact and stable design.
 
 ## Actual circuit build and demo
-This is the final working implementation of the touch sensor on  a breadboard. ![8A0BB05B-3D51-4EF0-ABE5-6EB50F3D76B1_1_105_c](https://github.com/user-attachments/assets/373f97aa-efcd-4f84-8781-5e0fadec1264)
+This is the final working implementation of the touch sensor on  a breadboard.
+![8A0BB05B-3D51-4EF0-ABE5-6EB50F3D76B1_1_105_c](https://github.com/user-attachments/assets/d985b8ab-895c-4b41-8368-2d22362c5faa)
+
