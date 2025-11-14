@@ -47,7 +47,6 @@ Started with a 7 MΩ pull down resistor. It was too sensitive and triggered with
 Verified low current consumption. The circuit only draws current when the coin is touched.
 
 ## Future improvements
-
 1) Add a Schmitt trigger stage to make the threshold cleaner
 2) Build a PCB version for a more compact and stable design.
 
