@@ -1,4 +1,4 @@
-#Capacitive Touch Sensor Using LM358
+# Capacitive Touch Sensor Using LM358
 
 ## Goal of the project
 
