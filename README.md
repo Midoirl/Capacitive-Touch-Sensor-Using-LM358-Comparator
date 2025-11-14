@@ -1,10 +1,10 @@
 #Capacitive Touch Sensor Using LM358
 
-##1. Goal of the project
+## Goal of the project
 
 The goal of the project was to demonstrate and build a fully functional touch sensor using a high impedance sensing node.
 
-##2.Components
+## Components
 
 LM358 op amp
 1.5 MΩ and 100 kΩ voltage divider
@@ -15,13 +15,13 @@ White LED
 Jumper wires
 5 V supply
 
-##3.Circuit
+## Circuit
 
 This section includes the full circuit used for the touch sensor.
 It shows the LM358 configured as a comparator, the high impedance sensing node, the reference voltage divider, the pull down resistor, and the LED output stage.
 
 
-##4.How it works
+## How it works
 
 When the user touches the pad, their body adds a small capacitance and leakage path that slightly raises the voltage at the sensing node.
 
@@ -31,7 +31,7 @@ If the sensed voltage exceeds the threshold, the comparator output of the LM358 
 
 The high impedance on the input ensures the circuit only reacts to actual touches and ignores noise.
 
-##5.Debugging and iteration
+## Debugging and iteration
 
 Started with a transistor based design. The LED output was dim and unreliable.
 
@@ -43,7 +43,7 @@ Started with a 7 MΩ pull down resistor. It was too sensitive and triggered with
 
 Verified low current consumption. The circuit only draws current when the coin is touched.
 
-##6.Future improvements
+## Future improvements
 
 Add a Schmitt trigger stage to make the threshold cleaner.
 Build a PCB version for a more compact and stable design.
