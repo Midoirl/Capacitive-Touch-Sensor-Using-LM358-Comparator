@@ -46,10 +46,10 @@ Dropping it to 1MΩ made the response nice and stable.
 The surprising part was how major resistor values changed the behavior of the entire sensor. A small adjustment completely changed sensitivity, stability and trigger accuracy.
 
 ## Results
-• Clean and consistent touch detection
-• Zero microcontroller involvment
-• Very low power usage (5V and draws 0.001A only when touched so max power = 0.005W)
-• No random flickering once tuned correctly
+• 1) Clean and consistent touch detection
+• 2) Zero microcontroller involvment
+• 3) Very low power usage (5V and draws 0.001A only when touched so max power = 0.005W)
+• 4) No random flickering once tuned correctly
 
 ## Future improvements
 1) Add a Schmitt trigger stage to harden the threshold.
