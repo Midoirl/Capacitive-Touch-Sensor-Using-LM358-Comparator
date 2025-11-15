@@ -13,11 +13,11 @@ Sounds simple on paper right? In reality, everything depends on noise, impedance
 
 ## Circuit Overview
 
-Comparator: LM358 on a single supply
-Touch plate: Metal coin
-Voltage reference divider: 1.5MΩ and 100kΩ
-Pull down resistor: 1MΩ
-Output: White LED with a current limiting 150Ω resistor
+1) Comparator: LM358 on a single supply
+2) Touch plate: Metal coin
+3) Voltage reference divider: 1.5MΩ and 100kΩ
+4) Pull down resistor: 1MΩ
+5) Output: White LED with a current limiting 150Ω resistor
 
 The coin acts like a small capacitor when it's touched. Your finger shifts the input node by a few tens of millivolts. The LM358 compares this change with the reference voltage and switches the output.
 
